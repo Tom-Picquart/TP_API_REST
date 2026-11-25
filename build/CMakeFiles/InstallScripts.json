@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/tompi/tp-rest-etudiant/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

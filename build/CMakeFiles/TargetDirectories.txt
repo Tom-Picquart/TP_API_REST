@@ -1,0 +1,3 @@
+/home/tompi/tp-rest-etudiant/build/CMakeFiles/server.dir
+/home/tompi/tp-rest-etudiant/build/CMakeFiles/edit_cache.dir
+/home/tompi/tp-rest-etudiant/build/CMakeFiles/rebuild_cache.dir
